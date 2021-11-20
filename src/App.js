@@ -14,7 +14,7 @@ function App() {
         </p>
 
         <p>
-          for github visitors, project is running on <a href="https://morpion.tanguydespat.com">morpion.tanguydespat.com</a>
+          for github visitors, project is running on <a href="https://tanguydespat.com/morpion">tanguydespat.com/morpion</a>
         </p>
       
       </header>
